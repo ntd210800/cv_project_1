@@ -8,7 +8,6 @@
 <body>
 	<!-- Header -->	
 	<header><?php require_once 'public/header.php';?></header>
-	<p>hello</p>
 
 	<!-- Body -->
 	<div class="content-center main-body">
