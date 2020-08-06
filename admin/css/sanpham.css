@@ -1,0 +1,14 @@
+.sanpham1{
+    margin: auto;
+    padding: 0px;
+    border: 1px;
+    width: auto;
+}
+.sanpham1 tr:visited{
+    background:pink;
+    
+}
+.sanpham1 tr td:hover{
+    color: pink;
+
+}

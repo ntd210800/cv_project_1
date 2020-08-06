@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    padding:0px ;
+    background: wheat;
+}
+
+
+.update{
+    margin: 0% 30% 30% 30%;
+    padding: 10% 10% 10% 10%;
+    border: 2px solid;
+    width: 10px;
+    height: 10px;
+}
+
+
+ /* .timkiem input[type=submit] {
+    width: 10%;
+    border: 1px solid #ccc;
+    font-size: 10px;
+    padding: 12px 0px 12px 0px;
+    float: right;
+    
+  } */
+/*.timkiem input[type=text] {
+    width: 20%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 30px;
+    font-size: 10px;
+    padding: 12px 20px 12px 40px;
+    float: right;
+    
+  } */
+  
+h2{
+    text-align: center;
+}

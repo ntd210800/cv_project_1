@@ -1,0 +1,12 @@
+#header {
+    background-color: rgb(47, 236, 47);
+    min-height: 70px;
+    padding: 15px;
+    color: white;
+    text-align: right;
+}
+div h2{
+    
+    text-align: center;
+    color: white;
+}

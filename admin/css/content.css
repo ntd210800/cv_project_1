@@ -1,0 +1,35 @@
+.content{
+    margin: auto;
+    padding: 0px ;
+    text-align: right;
+}
+.pagination{
+    text-align: center;
+    border: 1px;
+}
+.sanpham{
+    margin: auto;
+    padding: 0px;
+    background-color:rgb(235, 212, 171);
+    font-size: 16px;
+}
+.sanpham1{
+    margin: 0px;
+    padding: 0px;
+    width: 84%;
+    border-collapse: collapse;
+    background-color:rgb(235, 212, 171);
+    text-align: center;
+    font-size: 16px;
+    transition: 0.5s;
+}
+
+.tr:hover{
+    background-color:rgb(101, 204, 211);
+}
+.tr:nth-child(odd) {
+    background-color: rgb(118, 207, 118);
+}
+.content h2{
+    color: black;
+}

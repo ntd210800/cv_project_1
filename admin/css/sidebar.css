@@ -1,0 +1,26 @@
+.sidebar{
+    float: left ;
+    border: 1px solid gray;
+    height: 1000px;
+    width: 15%;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    
+} 
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: wheat;
+}
+li a{
+    text-decoration: none;
+    display: block;
+    border-bottom: 1px solid gray;
+    
+}
+li:hover{
+    background-color: rgb(118, 207, 118);
+}
